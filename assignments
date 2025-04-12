@@ -1,16 +1,15 @@
-task1.py
-# Task 1: Check if a Number is Even or Odd
-
+#task1.py
 # Take input from the user
 number = int(input("Enter a number: "))
 
+# Task 1: Check if a Number is Even or Odd
 # Check if the number is even or odd
 if number % 2 == 0:
     print(f"{number} is an even number.")
 else:
     print(f"{number} is an odd number.")
 
- task2.py
+ #task2.py
 # Initialize sum variable
 total = 0
 
